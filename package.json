@@ -1,8 +1,9 @@
 {
   "name": "node-count-inversions",
   "version": "0.0.0",
-  "description": "",
+  "description": "A function that counts the number of inversions in an array in n log n time.",
   "main": "index.js",
+  "node": ">=4.0.0",
   "scripts": {
     "start": "./node_modules/nodemon/bin/nodemon.js --exec 'npm run lint && npm test'",
     "lint": "eslint **/*.js",
