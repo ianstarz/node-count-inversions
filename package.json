@@ -13,10 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/ianstarz/simple-node-project-boilerplate.git"
   },
-  "keywords": [
-    "htmlbars",
-    "htmlbars-ast-plugin"
-  ],
+  "keywords": [],
   "author": "ianstarz",
   "license": "MIT",
   "bugs": {
